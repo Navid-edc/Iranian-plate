@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# Secrets / env
+.env
+
+# Model weights and generated outputs
+*.pth
+visualizations/
